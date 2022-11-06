@@ -1,0 +1,1 @@
+print('idk wats going on with life tbh')
